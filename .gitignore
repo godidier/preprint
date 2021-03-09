@@ -1,0 +1,9 @@
+*~
+*.swp
+*.aux
+*.bbl
+*.blg
+*.log
+
+.fuse_hidden*
+.DS_Store
