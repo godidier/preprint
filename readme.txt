@@ -7,13 +7,16 @@ of Springer-Verlag.
 
 It consists of the following files:
 
-  readme.txt         this file
+  readme.txt        this file
 
-  llncs.cls          the LaTeX2e document class
+  llncs.cls         the LaTeX2e document class
 
-  samplepaper.tex    a sample paper
-  fig1.eps           a figure used in the sample paper
+  samplepaper.tex   a sample paper
+  samplepaper.bib   a sample bibliography
+  figs/fig1.eps     a figure used in the sample paper
 
-  llncsdoc.pdf       the documentation of the class (PDF version)
+  llncsdoc.pdf      the documentation of the class (PDF version)
 
-  splncs04.bst       current LNCS BibTeX style with alphabetic sorting
+  splncs04.bst      current LNCS BibTeX style with alphabetic sorting
+
+  makefile          to automate compilation and other commands
